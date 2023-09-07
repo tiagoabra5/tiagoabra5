@@ -26,3 +26,4 @@
 </div>
 
 ![Snake animation](https://github.com/tiagoabra5/tiagoabra5/blob/output/github-contribution-grid-snake.svg)
+
