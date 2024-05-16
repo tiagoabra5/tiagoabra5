@@ -3,7 +3,6 @@
 ##
 
 - 🔭 Estudando JavaScript
-- 😄 Pronouns: aca/demia
 
 <div>
   <a href="https://github.com/tiagoabra5">
