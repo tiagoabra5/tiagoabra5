@@ -9,11 +9,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoabra5&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<h3 align="left">Programming Languages</h3>
+<h3 align="center">Programming Languages</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"/>
   <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo"/>
@@ -26,11 +26,11 @@
 
 ###
 
-<h3 align="left">Tools & Frameworks</h3>
+<h3 align="center">Tools & Frameworks</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"/>
