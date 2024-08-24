@@ -1,4 +1,4 @@
-### hello, my name is Tiago Abraão
+### Hello, my name is Tiago Abraão
 
 ##
 
