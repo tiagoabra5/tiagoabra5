@@ -14,19 +14,34 @@
 ###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="37" alt="Java"/>
+  <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="37" alt="c logo"/>
   <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"/>
   <img width="20"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"/>
   <img width="20"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="37" alt="mysql logo"/>
-  <img width="20"/>
 </div>
 
 ###
 
-<h3 align="center">Tools & Frameworks</h3>
+<h3 align="center">Frameworks & Libraries</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="35" alt="Angular"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap"/>
+  <img width="15"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="Spring Boot"/>
+  <img width="15"/>
+</div>
+
+###
+
+<h3 align="center">Tools & Version Control</h3>
 
 ###
 
@@ -37,13 +52,18 @@
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="37" alt="git logo"/>
   <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="37" alt="nodejs logo"/>
-  <img width="10"/>
 </div>
 
 ###
 
-##
+<h3 align="center">Databases & SQL</h3>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="37" alt="mysql logo"/>
+  <img width="20"/>
+</div>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tiago-abra%C3%A3o-42b61323b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
