@@ -53,6 +53,8 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="37" alt="mysql logo"/>
   <img width="20"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB"/>
+  <img width="20"/>
 </div>
 
 ###
