@@ -1,7 +1,7 @@
 <h1 align="center">Tiago Abraão
 </h1>
 <p align="center">
-  Desenvolvedor Back-end
+  Desenvolvedor Full-Stack
 </p>
 
 ---
